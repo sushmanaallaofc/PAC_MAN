@@ -4,7 +4,7 @@ Creating a pacman on demand clicking the button and move these pacmen across the
 
 # Installation
 Use this command to install 
-git clone : https://github.com/Shiva-Deepgrid/PACMAN.git
+git clone : https://github.com/sushmanaallaofc/PAC_MAN
 
 # Working
 ## Step 1:
